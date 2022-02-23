@@ -1,4 +1,4 @@
-import Creational.Singleton.ClientApplication;
+import Structural.Proxy.ClientApplication;
 
 public class App {
     public static void main(String[] args) throws Exception {
